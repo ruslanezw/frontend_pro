@@ -1,0 +1,20 @@
+.containerBtn {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 100px;
+}
+
+.btn-link {
+    padding: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#linkBtn {
+    background-color: aqua;
+}
+
+#redirectBtn {
+    background-color: aquamarine;
+}
